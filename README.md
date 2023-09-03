@@ -13,6 +13,7 @@ You must have installed and downloaded this elements before continuing and start
   * Python 
   * Trader Workstation from IBKR
   * Clone this project
+  * Install requirements with "pip install -r requirements.txt”"
   * Have an account in Investing and Interactive Brokers
 
 # Build process
