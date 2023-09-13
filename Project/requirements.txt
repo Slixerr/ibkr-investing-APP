@@ -1,0 +1,5 @@
+ib_insync==0.9.81
+ibapi==9.81.1.post1
+pandas==1.5.2
+PyAutoGUI==0.9.52
+selenium==4.11.2
